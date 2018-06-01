@@ -1,0 +1,2 @@
+numstars 6
+highscore 1894
